@@ -1,9 +1,8 @@
 # React Application Test
-=== 
+
 
 This test is completely optional, feel free not to take it.
 
-===
 
 So, if you are reading this, you're at least interested on the test, that's great! Let's get into it!
 
@@ -13,9 +12,8 @@ So, if you are reading this, you're at least interested on the test, that's grea
 
 ![Surprised Pikachu](https://media.tenor.com/images/e9e060b3eed685391ed181b19274f6d9/tenor.gif)
 
-===
 
-To accomplish this, you will need to use the [PokéApi](https://pokeapi.co/), to get the necessary data about the pokemons.
+To accomplish this, you will need to use [PokéApi](https://pokeapi.co/), to get the necessary data about the pokemons.
 
 ### Details
 
