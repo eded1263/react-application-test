@@ -1,10 +1,6 @@
 # React Application Test
 
-
-This test is completely optional, feel free not to take it.
-
-
-So, if you are reading this, you're at least interested on the test, that's great! Let's get into it!
+Congratulations on making your way to here! On this step, we will be taking a look at your coding skills. So, without further do, let's talk about the test!
 
 ## The test
 
